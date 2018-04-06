@@ -1,0 +1,8 @@
+   521 creeptext.txt
+   412 drac.txt
+ 78097 frankenstein.txt
+ 28761 jekyllhyde.txt
+   576 twilight.txt
+   315 vampire.txt
+    91 zombieipsum.txt
+108773 total
